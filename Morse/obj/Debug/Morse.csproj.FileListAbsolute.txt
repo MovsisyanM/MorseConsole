@@ -1,0 +1,11 @@
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\bin\Debug\Morse.exe.config
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\bin\Debug\Morse.exe
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\bin\Debug\Morse.pdb
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.csprojResolveAssemblyReference.cache
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.exe
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.pdb
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\bin\Debug\Morse.exe.manifest
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\bin\Debug\Morse.application
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.TrustInfo.xml
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.exe.manifest
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\Morse\obj\Debug\Morse.application
